@@ -1,0 +1,2 @@
+CSRF_ENABLED = True
+SECRET_KEY = 'EdXv1nu9EUsiUZF'
