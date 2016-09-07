@@ -1,2 +1,4 @@
-__pycache__
-flask
+/__pycache__
+/app/__pycache__
+/flask
+/tmp
